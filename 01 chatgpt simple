@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "your api key here"
 
 completion = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=[{"role": "user", "content": "Give me 3 ideas for apps I could build with openai apis "}])
 print(completion.choices[0].message.content) # type: ignore
