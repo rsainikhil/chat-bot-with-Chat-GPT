@@ -15,8 +15,8 @@ before downloading you need to install the following
 
 i have arranged/classified the projects according to their level of complexity
 
-01: this is very simple just 4 lines of code but gives you only one kind of information which can be modifyed by you.
-02: this is little complex thank first on but easy to understand the is a command promt/terminal based project (runs in terminal/command promt only no gui) so, you can       ask anything only through command promt
-03: very easy but complex it has a beautiful gui and gives an experience like chat-GPT.
+1: this is very simple just 4 lines of code but gives you only one kind of information which can be modifyed by you.
+2: this is little complex thank first on but easy to understand the is a command promt/terminal based project (runs in terminal/command promt only no gui) so, you can       ask anything only through command promt
+3: very easy but complex it has a beautiful gui and gives an experience like chat-GPT.
 
 you can improvise all these code as per your will and wish.
